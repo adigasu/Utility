@@ -1,4 +1,5 @@
-test
+Utility functions
 ====
 
-my first git project for testing pupose
+1. To read and display files in python: fileReader/
+
