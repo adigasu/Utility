@@ -2,7 +2,7 @@ Utility
 ====
 
 ### Watchlist
-- [Self-Supervised Learning] [[link1]](https://github.com/jason718/awesome-self-supervised-learning) 
+- [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) 
 - [Semi-supervised Segmentation (Medical imaging)](https://github.com/HiLab-git/SSL4MIS)
 - [Deep metric learning](https://github.com/adigasu/Survey_of_Deep_Metric_Learning)
 - [Pytorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
