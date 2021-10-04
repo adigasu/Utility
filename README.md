@@ -4,7 +4,7 @@ Utility
 ### Watchlist
 - [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning) 
 - [Semi-supervised Segmentation (Medical imaging)](https://github.com/HiLab-git/SSL4MIS)
-- [Deep metric learning](https://github.com/adigasu/Survey_of_Deep_Metric_Learning)
+- Deep metric learning[[link]](https://github.com/adigasu/Survey_of_Deep_Metric_Learning) [[link2]](https://github.com/Confusezius/Deep-Metric-Learning-Baselines)
 - [Pytorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
 
 ### Medical Datasets and Projects
