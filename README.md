@@ -6,6 +6,7 @@ Utility
 - [Semi-supervised Segmentation (Medical imaging)](https://github.com/HiLab-git/SSL4MIS)
 - Deep metric learning[[link]](https://github.com/adigasu/Survey_of_Deep_Metric_Learning) [[link2]](https://github.com/Confusezius/Deep-Metric-Learning-Baselines)
 - [Pytorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
+- [Uncertainty](https://github.com/MOONJOOYOUNG/Deep-learning-Uncertainty-papers)
 
 ### Medical Datasets and Projects
 - [Healthcare Projects](https://github.com/prasadseemakurthi/Deep-Neural-Networks-HealthCare)
