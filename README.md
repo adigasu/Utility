@@ -7,6 +7,7 @@ Utility
 - Deep metric learning[[link]](https://github.com/adigasu/Survey_of_Deep_Metric_Learning) [[link2]](https://github.com/Confusezius/Deep-Metric-Learning-Baselines)
 - [Pytorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
 - [Uncertainty](https://github.com/MOONJOOYOUNG/Deep-learning-Uncertainty-papers)
+- [All-in-1](https://github.com/Nachimak28/awesome-list-of-awesomes)
 
 ### Medical Datasets and Projects
 - [Healthcare Projects](https://github.com/prasadseemakurthi/Deep-Neural-Networks-HealthCare)
